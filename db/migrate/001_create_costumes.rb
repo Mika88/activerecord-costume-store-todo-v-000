@@ -4,5 +4,4 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :name
     end
   end
-    
 end
